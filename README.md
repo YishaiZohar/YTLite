@@ -1,5 +1,5 @@
 # YouTube Plus (ex. YTLite)
-A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
+A flexible haha enhancer for YouTube on iOS, featuring over hundred customizable options.
 
 ## Screenshots
 <table>
